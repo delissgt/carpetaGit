@@ -1,2 +1,0 @@
-commmit uno:
-modificando archivo
